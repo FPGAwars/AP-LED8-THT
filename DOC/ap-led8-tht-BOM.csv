@@ -1,0 +1,11 @@
+"Source:","/home/obijuan/Develop/AP-LED8-THT/ap-led8-tht.kicad_sch"
+"Date:","vie 12 ene 2024 10:51:23"
+"Tool:","Eeschema 7.0.10-7.0.10~ubuntu22.04.1"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","10"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP"
+"1","8","D0, D1, D2, D3, D4, D5, D6, D7","LED","Device:LED","Monolito:LED_THT__LED_D3.0mm","~",""
+"2","2","J1, J2","Conn_01x08_Socket","Connector:Conn_01x08_Socket","Monolito:PinSocket_1x08_P2.54mm_Vertical","~",""
