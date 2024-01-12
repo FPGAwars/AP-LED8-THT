@@ -8,5 +8,8 @@ This board is also used as a reference for teaching students how to design their
 ![Bottom view](DOC/images/ap-led8-tht-3D-bott.png)  
 ![Perspective View](DOC/images/ap-led8-tht-3D-perspective.png)  
 
+## Conection to Alhambra II Board
+
+![Alhambra-II+AP-LED8-THT](DOC/images/ap-led8-tht-Alhambra-II-3D.png)
 
 Documentation licensed under the Creative Commons Attribution Share Alike 4.0 International License
