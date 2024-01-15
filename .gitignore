@@ -5,3 +5,4 @@ fp-info-cache
 *.
 _autosave-*
 *.FCBak
+*.kicad_pcb-bak
