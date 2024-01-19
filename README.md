@@ -8,10 +8,19 @@ This board is also used as a reference for teaching students how to design their
 ![Bottom view](DOC/images/ap-led8-tht-3D-bott.png)  
 ![Perspective View](DOC/images/ap-led8-tht-3D-perspective.png)  
 
-## Conection to Alhambra II Board
+## Connection to Alhambra II Board
 
 ![Alhambra-II+AP-LED8-THT](DOC/images/ap-led8-tht-Alhambra-II-3D.png)
 
+## Certification mark
+
+This board is Opensource hardware, certified by the [OSHWA](https://www.oshwa.org/)
+
+* Certification ID: [ES000043](https://certification.oshwa.org/es000043.html)  
+
+* Certification mark:
+
+![Alt text](DOC/OSHWA-certification/certification-mark-ES000043-stacked.svg)
 
 ## License
 
