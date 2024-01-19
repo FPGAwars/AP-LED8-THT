@@ -12,4 +12,9 @@ This board is also used as a reference for teaching students how to design their
 
 ![Alhambra-II+AP-LED8-THT](DOC/images/ap-led8-tht-Alhambra-II-3D.png)
 
-Documentation licensed under the Creative Commons Attribution Share Alike 4.0 International License
+
+## License
+
+Documentation licensed under the [Creative Commons Attribution Share Alike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)  
+![Alt text](DOC/images/CC_BY-SA_icon.svg.png)
+
