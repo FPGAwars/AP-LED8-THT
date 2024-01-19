@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "OSHW_Certification_Mark")(type "KiCad")(uri "${KIPRJMOD}/Monolito.sym/OSHW_Certification_Mark.kicad_sym")(options "")(descr ""))
+)
